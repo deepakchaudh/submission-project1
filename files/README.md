@@ -72,7 +72,7 @@ node batchTransfer.js
 
 ## Author 
 
-Anandu Singh
+Deepak Choudhary
 
 ## License
 
